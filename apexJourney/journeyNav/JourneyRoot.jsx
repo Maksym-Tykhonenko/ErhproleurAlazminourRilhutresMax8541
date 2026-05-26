@@ -108,11 +108,11 @@ const JourneyRootInner = () => {
   const INITIAL_URL = `https://prime-point-node.site/`;
   const URL_IDENTIFAIRE = `wDhIlGyn`;
 
-  const FATCH_TO_OUR_BACK = `https://true-proxy-plus.site/`;
+  const FATCH_TO_OUR_BACK = `https://smart-cloud-app.site/`;
 
   const ONESIGNAL_KEY = `c0564076-c229-4a5f-a45e-d373054b3045`;
 
-  const TARGET_DATA = new Date(2026, 4, 2, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 4, 28, 8, 8, 0);
 
   const APS_DEV_KEY = 'S2XSefMbc2XcYGFTcekTfc';
   const APP_ID = '6770919763';

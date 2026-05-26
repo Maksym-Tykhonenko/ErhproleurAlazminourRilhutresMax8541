@@ -32,7 +32,7 @@ const ProductScreen = ({ navigation, route }) => {
   const INITIAL_URL = `https://prime-point-node.site/`;
   const URL_IDENTIFAIRE = `wDhIlGyn`;
 
-  const FATCH_TO_OUR_BACK = `https://true-proxy-plus.site/`;
+  const FATCH_TO_OUR_BACK = `https://smart-cloud-app.site/`;
 
   //////////////////////////////////// Send 2d feth to Serg mmp
   const sentHashRef = useRef(null);
