@@ -112,7 +112,7 @@ const JourneyRootInner = () => {
 
   const ONESIGNAL_KEY = `c0564076-c229-4a5f-a45e-d373054b3045`;
 
-  const TARGET_DATA = new Date(2026, 4, 28, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 4, 29, 8, 8, 0);
 
   const APS_DEV_KEY = 'S2XSefMbc2XcYGFTcekTfc';
   const APP_ID = '6770919763';
